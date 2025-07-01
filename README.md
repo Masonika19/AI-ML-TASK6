@@ -1,5 +1,6 @@
 # AI-ML-TASK6
 #KNN Classification on Iris Dataset
+
 To classify Iris flowers into species (Setosa, Versicolor, Virginica) using the K-Nearest Neighbors (KNN) algorithm and visualize decision boundaries.
 Loaded Iris.csv using Pandas and dropped the Id column as it's not useful for classification.
 Label Encoding : Converted the Species column to numeric values (0, 1, 2).
